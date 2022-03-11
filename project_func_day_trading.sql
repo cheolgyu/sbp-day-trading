@@ -2,7 +2,7 @@
 
 파일명: 단타
 단타용 종목 찾기 
-stock-read-pub-api query 참고.
+sf-pub-api query 참고.
 
 */
 

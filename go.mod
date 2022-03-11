@@ -1,3 +1,3 @@
-module github.com/cheolgyu/stock-write-project-day-trading
+module github.com/cheolgyu/sbp-day-trading
 
 go 1.16
